@@ -9,6 +9,9 @@ This function takes an array of numbers as input and returns the maximum number 
 #### Usage
 
 ##Create a file named `findMax.js` and add the following code inside findmax.js
+
+--------------------------------------------------------------------------------------------
+
 ##2. Simple Express Server
 This server responds with "Hello, World!" when accessed through the browser at the route /myapi.
 
@@ -25,6 +28,7 @@ npm install express
 ##6.Run the server:
 node server.js
 ##7.Open your browser and navigate to http://localhost:3000/myapi to see the "Hello, World!" message.
+
 
 
 
